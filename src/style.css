@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+h1,
+h2,
+p {
+  font-family: Lato, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

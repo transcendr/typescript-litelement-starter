@@ -1,0 +1,23 @@
+{
+  "name": "typescript-litelement-component-starter",
+  "version": "1.0.0",
+  "description": "A simple example project for web components using LitElement and Typescript",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@polymer/lit-element": "0.5.2",
+    "uuid": "3.2.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "litelement",
+    "web components",
+    "typescript",
+    "custom elements"
+  ]
+}
